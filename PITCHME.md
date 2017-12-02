@@ -28,7 +28,7 @@ https://doi.org/10.1136/bmj.331.7531.1498
 
 +++
 
-![Video](https://www.youtube.com/watch?v=MaGSG7Lselk&t=6s)
+![Video](https://www.youtube.com/embed/MaGSG7Lselk?start=6)
 
 ---
 
@@ -56,3 +56,5 @@ By means of an ANOVA, we will determine the F value, better known as fork value,
 ---
 
 # Thank you!
+---?image=stylesheet/Brainzzz.png
+---?image=stylesheet/LastSlide.png
