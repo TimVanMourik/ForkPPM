@@ -68,3 +68,9 @@ By means of an ANOVA, we will determine the F value, better known as fork value,
 
 ---?image=stylesheet/LastSlide.png
 # Thank you!
+---?image=stylesheet/LastSlide&Brainzzz.png
+# Thank you!
+
+---
+---?image=stylesheet/LastSlide&Brainzzz.png
+# Thank you!
