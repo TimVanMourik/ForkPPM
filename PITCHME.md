@@ -55,5 +55,5 @@ By means of an ANOVA, we will determine the F value, better known as fork value,
 
 
 ---?image=stylesheet/LastSlideB2.png
-# Thank you!  5
+# Thank you!  
 
