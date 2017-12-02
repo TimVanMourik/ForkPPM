@@ -1,4 +1,4 @@
-+---?image=stylesheet/FirstSlide.png
+---?image=stylesheet/FirstSlide.png
 # Fork Request 
 ## PPM, December 32, 2017
 
