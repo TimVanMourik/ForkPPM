@@ -1,3 +1,4 @@
+---?image=stylesheet/FirstSlide.png
 # Fork Request 
 ## PPM, December 32, 2017
 
@@ -27,7 +28,7 @@ https://doi.org/10.1136/bmj.331.7531.1498
 
 +++
 
-![Video](https://www.youtube.com/watch?v=MaGSG7Lselk&t=6s)
+![Video](https://www.youtube.com/embed/MaGSG7Lselk?start=6)
 
 ---
 
@@ -51,6 +52,7 @@ By means of an ANOVA, we will determine the F value, better known as fork value,
 ---
 # Scientific Contribution
 
----
 
-# Thank you!
+---?image=stylesheet/LastSlideB2.png
+# Thank you!  
+
