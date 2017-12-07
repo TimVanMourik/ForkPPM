@@ -31,6 +31,7 @@
   - grant number [RIC Fall 2016](https://docs.google.com/document/d/1JwDWR4ktyRerZ78i_v9WBSoHi2pvvsan2ejlBvIaXpU)
 
 +++
+
 Van Mourik et al. 2014, in prep.
 - Preliminary result:
 
@@ -38,7 +39,7 @@ Van Mourik et al. 2014, in prep.
 
 +++
 
-### #TeamScience.
+### #TeamScience
 
 - Collaborative project (published as: Donders Institute)
 - Post request to work on this collaboratively on Facebook
@@ -52,7 +53,9 @@ Van Mourik et al. 2014, in prep.
 ---
 
 # Experimental Question
+
 +++
+
 - We hypothesise that the FFA has always been an acronym for the Fusiform Fork Area.
 - They all move to a planet with forkoids
   - [(Adams 1979)](https://en.wikipedia.org/wiki/The_Hitchhiker%27s_Guide_to_the_Galaxy)
@@ -64,10 +67,11 @@ Van Mourik et al. 2014, in prep.
 # Materials & Methods
 
 +++
+
 # #TeamScience
 
 - Use GitHub to collaboratively make presentation
-- Attach Bitcoin bounties to substeps
+- Attach Cryptocurrency (e.g. Bitcoin, Etheruem) bounties to substeps
 - Let Donderians make the content
 - Outsource technical issues to India/China/Anywhere
 - Online presentation stylesheet
@@ -81,7 +85,7 @@ Van Mourik et al. 2014, in prep.
 
 - Github is important for scientists
 - F@!king a repository is a legitimate software terminology
-  - Meaning: making a branch for you to work on
+  - It refers to creating a branch for you to work on
   - Version controlled
 
 ---
@@ -89,6 +93,7 @@ Van Mourik et al. 2014, in prep.
 # Procedure & Subjects
 
 +++
+
 # We need:
 - Equipment: 200 forks * ± €1
 - The cost of GPS trackers, cost unknown
@@ -120,6 +125,7 @@ fork_loc = ft_findForks(forks, lost_at);
 # Scientific Contribution
 
 +++
+
 # What we learn(t) from this process
 - We built a presentation template (GitPitch)
   - easily create minimal online presentation
